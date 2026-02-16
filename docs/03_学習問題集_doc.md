@@ -11,10 +11,11 @@
 - 02_claude/02_アライナー矯正の基礎.md の内容
 - Proffit "Contemporary Orthodontics" 6th ed. の公開情報（Bookey、Quizlet等）
 - PMC論文のエビデンスデータ
+- PMC11570571: アライナーのバイオメカニクスの系統的レビュー（2024）
 
 ## アウトプット
 - Markdown形式の問題集（HTML detailsタグで回答を折りたたみ）
-- 全15問（Part 1: 5問、Part 2: 6問、Part 3: 5問）
+- 全21問（Part 1: 5問、Part 2: 6問、Part 3: 5問、Part 4: 5問）
 
 ## セクション説明
 
@@ -23,6 +24,7 @@
 | Part 1 | 矯正診断の基礎（セファロ、Angle分類等） | 5問 |
 | Part 2 | アライナー矯正の知識（エビデンスベース） | 6問 |
 | Part 3 | Proffit先生の矯正学の基礎概念 | 5問 |
+| Part 4 | アライナーのバイオメカニクス（力学詳細） | 5問 |
 
 ## 特記事項
 - HTML `<details>` タグで回答を折りたたみ表示
