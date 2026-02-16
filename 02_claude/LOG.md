@@ -108,3 +108,29 @@
 - 模型分析の詳細資料
 - Stability（安定性）と Retention（保定）の詳細資料
 - 問題集の拡充（各トピック10問以上を目標）
+
+---
+
+### セッション2（続き）：Proffitガイド追加
+
+#### 作業内容
+1. **Proffitガイド作成**
+   - `02_claude/04_Proffit_Contemporary_Orthodontics.md` を作成
+   - 第6版の全20章・7セクションの目次
+   - 第7版の変更点（アライナー章新設！）
+   - Ackerman-Proffit分類の詳細
+   - 問題志向型アプローチ
+   - 歯の動きの生物学的基礎
+   - 力学の基本原理
+   - オンライン学習リソース一覧
+   - 推奨学習順序
+
+2. **ドキュメント作成**
+   - `docs/04_Proffit_Contemporary_Orthodontics_doc.md` を作成
+
+#### 重要な発見
+- 第7版（2025年7月）でClear Alignersの章が2つ新設
+  - Ch.18: Clear Aligners in Adolescents
+  - Ch.21: Clear Aligners in Adults
+- AI応用、OSA（睡眠時無呼吸）、インフォームドコンセントの議論も追加
+- 写真/イラストが200枚以上更新（合計約2,000枚）
