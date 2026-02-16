@@ -17,7 +17,19 @@
 | 02_class3.gif | NCBI StatPearls NBK592395 - Dr. Georg Risse | CC BY-SA 3.0 |
 | 03_class1_bimaxillary.gif | NCBI StatPearls NBK592395 - Challiyan | CC BY-SA 4.0 |
 
+## アライナー画像（aligner/）
+
+| ファイル名 | 出典 | ライセンス |
+|---|---|---|
+| 01_digital_reconstruction.jpg | PMC10597356 - "Clear Aligner Therapy: Up to date review" (J Orthod Sci, 2023) | CC BY-NC-SA 4.0 |
+| 02_attachment_forces.jpg | PMC10597356 - 同上 | CC BY-NC-SA 4.0 |
+| 03_before_after.jpg | PMC10597356 - 同上 | CC BY-NC-SA 4.0 |
+| 04_successive_aligners.jpg | PMC10597356 - 同上 | CC BY-NC-SA 4.0 |
+| 05_power_ridges.jpg | PMC7018497 - "Clear Aligners and The Scientific Reality" (Turk J Orthod, 2019) | Copyright 2019 Turkish Orthodontic Society |
+| 06_root_control_attachment.jpg | PMC7018497 - 同上 | Copyright 2019 Turkish Orthodontic Society |
+| 07_extrusion_anterior.jpg | PMC7018497 - 同上 | Copyright 2019 Turkish Orthodontic Society |
+
 ## 注意
 - 全画像は教育・学習目的で使用
-- CC BY / CC BY-SA ライセンスのため、出典を明記して使用すること
+- CC BY / CC BY-SA / CC BY-NC-SA ライセンスのため、出典を明記して使用すること
 - Wikimedia Commonsからの直接ダウンロードは避け、NCBI/PMCのCDNから取得
